@@ -1,0 +1,1370 @@
+[
+  {
+    "info": {
+      "id": "396721",
+      "name": "Chai Point",
+      "cloudinaryImageId": "f9ekvewefxolboyrurxs",
+      "locality": "Rahatani Road",
+      "areaName": "Pimple Saudagar",
+      "costForTwo": "₹150 for two",
+      "cuisines": [
+        "Bakery",
+        "Beverages",
+        "Maharashtrian"
+      ],
+      "avgRating": 4.5,
+      "parentId": "1607",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 4.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30 mins",
+        "lastMileTravelString": "4.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-14 00:00:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/chai-point-rahatani-road-pimple-saudagar-pune-396721",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "310857",
+      "name": "McDonald's",
+      "cloudinaryImageId": "bb7ae131544c7d37e10fc5faf76f09d6",
+      "locality": "Elpro City Square Mall",
+      "areaName": "Chinchwad",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+      "avgRating": 4.1,
+      "parentId": "630",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 0.4,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30 mins",
+        "lastMileTravelString": "0.4 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:45:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/mcdonalds-elpro-city-square-mall-chinchwad-pune-310857",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "203925",
+      "name": "Burger King",
+      "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+      "locality": "Elprocity Square",
+      "areaName": "Chinchwad",
+      "costForTwo": "₹350 for two",
+      "cuisines": ["Burgers", "American"],
+      "avgRating": 4,
+      "parentId": "166",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 0.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "27 mins",
+        "lastMileTravelString": "0.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-08 02:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/burger-king-elprocity-square-chinchwad-pune-203925",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "16970",
+      "name": "Mad Momos",
+      "cloudinaryImageId": "qswrojfwttgslmy8n4cn",
+      "locality": "Guru Krupa Colony",
+      "areaName": "Guru Krupa Colony",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+        "Chinese",
+        "Tibetan",
+        "Nepalese",
+        "Pizzas",
+        "Snacks",
+        "Beverages"
+      ],
+      "avgRating": 4,
+      "parentId": "610",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 33,
+        "lastMileTravel": 5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "33 mins",
+        "lastMileTravelString": "5.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/mad-momos-guru-krupa-colony-pune-16970",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "395372",
+      "name": "McDonald's Gourmet Burger Collection",
+      "cloudinaryImageId": "boiijm0dyrlaf4bskyhk",
+      "locality": "Elpro City Square Mall",
+      "areaName": "Chinchwad",
+      "costForTwo": "₹600 for two",
+      "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+      "avgRating": 4.3,
+      "parentId": "10761",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 26,
+        "lastMileTravel": 0.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "26 mins",
+        "lastMileTravelString": "0.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:45:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/mcdonalds-gourmet-burger-collection-elpro-city-square-mall-chinchwad-pune-395372",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "410771",
+      "name": "Samosa Singh",
+      "cloudinaryImageId": "77baefd8a5e319c828b4d7dff7260644",
+      "locality": "Bhat Nagar",
+      "areaName": "Pimpri",
+      "costForTwo": "₹150 for two",
+      "cuisines": ["North Indian"],
+      "avgRating": 4.1,
+      "veg": true,
+      "parentId": "5639",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 1.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "27 mins",
+        "lastMileTravelString": "1.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/samosa-singh-bhat-nagar-pimpri-pune-410771",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "2185",
+      "name": "Mother's Kitchen",
+      "cloudinaryImageId": "828426956419e13407628ac0c0680b30",
+      "locality": "Vishal Nagar",
+      "areaName": "Pimple Nilakh",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Chinese"],
+      "avgRating": 4.1,
+      "parentId": "7766",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 32,
+        "lastMileTravel": 6.4,
+        "serviceability": "SERVICEABLE",
+        "slaString": "32 mins",
+        "lastMileTravelString": "6.4 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-08 01:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/mothers-kitchen-vishal-nagar-pimple-nilakh-pune-2185",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "323666",
+      "name": "Cupcake Bliss Cake & Desserts",
+      "cloudinaryImageId": "40f193d8b23afb2988489dac1258962f",
+      "locality": "Bhujbal Wasti",
+      "areaName": "Wakad",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Bakery", "Desserts", "Ice Cream", "Beverages"],
+      "avgRating": 3.9,
+      "parentId": "66732",
+      "avgRatingString": "3.9",
+      "totalRatingsString": "500+",
+      "sla": {
+        "deliveryTime": 32,
+        "lastMileTravel": 6.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "32 mins",
+        "lastMileTravelString": "6.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-08 05:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/cupcake-bliss-cake-and-desserts-bhujbal-wasti-wakad-pune-323666",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "323673",
+      "name": "WarmOven Cake & Desserts",
+      "cloudinaryImageId": "e938fb5f416cc2c28b4b519cf27b04cc",
+      "locality": "Bhujbal Wasti",
+      "areaName": "Wakad",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Bakery", "Desserts", "Ice Cream", "Beverages"],
+      "avgRating": 4.1,
+      "parentId": "9696",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 35,
+        "lastMileTravel": 6.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35 mins",
+        "lastMileTravelString": "6.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-08 05:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/warmoven-cake-and-desserts-bhujbal-wasti-wakad-pune-323673",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "363836",
+      "name": "Theobroma",
+      "cloudinaryImageId": "b033728dcb0101ceb19bff0e1e1f6474",
+      "locality": "Pimple Saudagar",
+      "areaName": "Pimple Saudagar",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Bakery", "Desserts"],
+      "avgRating": 4.4,
+      "parentId": "1040",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "5K+",
+      "sla": {
+        "deliveryTime": 23,
+        "lastMileTravel": 4.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "23 mins",
+        "lastMileTravelString": "4.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [{ "imageId": "newg.png", "description": "Gourmet" }]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Gourmet",
+                  "imageId": "newg.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/theobroma-pimple-saudagar-pune-363836",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "17360",
+      "name": "Subway",
+      "cloudinaryImageId": "1ace5fa65eff3e1223feb696c956b38b",
+      "locality": "Shivar Garden Road",
+      "areaName": "Pimple Saudagar",
+      "costForTwo": "₹350 for two",
+      "cuisines": [
+        "Fast Food",
+        "Healthy Food",
+        "Salads",
+        "Snacks",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.4,
+      "parentId": "2",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "10K+",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 4.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "27 mins",
+        "lastMileTravelString": "4.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:45:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/subway-shivar-garden-road-pimple-saudagar-pune-17360",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "323668",
+      "name": "Kaati Zone Rolls & Wraps",
+      "cloudinaryImageId": "reykt14ijxya20zbpiud",
+      "locality": "Bhujbal Wasti",
+      "areaName": "Wakad",
+      "costForTwo": "₹150 for two",
+      "cuisines": ["Fast Food", "Bengali", "Beverages", "Desserts"],
+      "avgRating": 3.8,
+      "parentId": "248306",
+      "avgRatingString": "3.8",
+      "totalRatingsString": "500+",
+      "sla": {
+        "deliveryTime": 36,
+        "lastMileTravel": 6.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "36 mins",
+        "lastMileTravelString": "6.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-08 05:00:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/kaati-zone-rolls-and-wraps-bhujbal-wasti-wakad-pune-323668",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "235625",
+      "name": "KFC",
+      "cloudinaryImageId": "f01666ac73626461d7455d9c24005cd4",
+      "locality": "Elpro City Square",
+      "areaName": "Pimpri",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+      "avgRating": 4,
+      "parentId": "547",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "5K+",
+      "sla": {
+        "deliveryTime": 31,
+        "lastMileTravel": 0.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "31 mins",
+        "lastMileTravelString": "0.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-08 00:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/kfc-elpro-city-square-pimpri-pune-235625",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "399562",
+      "name": "LunchBox - Meals and Thalis",
+      "cloudinaryImageId": "sp9pmmr9jdajzdnvk7iq",
+      "locality": "Chinchwad",
+      "areaName": "Nigdi",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+        "Biryani",
+        "North Indian",
+        "Punjabi",
+        "Healthy Food",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.1,
+      "parentId": "4925",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 26,
+        "lastMileTravel": 3.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "26 mins",
+        "lastMileTravelString": "3.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹159"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/lunchbox-meals-and-thalis-chinchwad-nigdi-pune-399562",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "399560",
+      "name": "Firangi Bake",
+      "cloudinaryImageId": "ixpoiixsq9ysgv6mskyt",
+      "locality": "Chinchwad",
+      "areaName": "Nigdi",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Pizzas",
+        "Pastas",
+        "Italian",
+        "Mexican",
+        "Healthy Food",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.3,
+      "parentId": "3952",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 3.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30 mins",
+        "lastMileTravelString": "3.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/firangi-bake-chinchwad-nigdi-pune-399560",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "399561",
+      "name": "Sweet Truth - Cake and Desserts",
+      "cloudinaryImageId": "81cf6bfe2760a45a0caf2e28716ca4d7",
+      "locality": "Chinchwad",
+      "areaName": "Nigdi",
+      "costForTwo": "₹450 for two",
+      "cuisines": ["Snacks", "Bakery", "Desserts", "Beverages"],
+      "avgRating": 4.4,
+      "parentId": "4444",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "500+",
+      "sla": {
+        "deliveryTime": 24,
+        "lastMileTravel": 3.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "24 mins",
+        "lastMileTravelString": "3.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/sweet-truth-cake-and-desserts-chinchwad-nigdi-pune-399561",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "399563",
+      "name": "The Good Bowl",
+      "cloudinaryImageId": "6e04be27387483a7c00444f8e8241108",
+      "locality": "Chinchwad",
+      "areaName": "Nigdi",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Biryani", "Pastas", "Punjabi", "Desserts", "Beverages"],
+      "avgRating": 4.1,
+      "parentId": "7918",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "500+",
+      "sla": {
+        "deliveryTime": 26,
+        "lastMileTravel": 3.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "26 mins",
+        "lastMileTravelString": "3.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/the-good-bowl-chinchwad-nigdi-pune-399563",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "399558",
+      "name": "Behrouz Biryani",
+      "cloudinaryImageId": "89fccaa76f2f760e2742b9e53d32bb69",
+      "locality": "Chinchwad",
+      "areaName": "Nigdi",
+      "costForTwo": "₹500 for two",
+      "cuisines": [
+        "Biryani",
+        "Kebabs",
+        "Mughlai",
+        "Lucknowi",
+        "Hyderabadi",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.2,
+      "parentId": "1803",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 3.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "27 mins",
+        "lastMileTravelString": "3.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [{ "imageId": "newg.png", "description": "Gourmet" }]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Gourmet",
+                  "imageId": "newg.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/behrouz-biryani-chinchwad-nigdi-pune-399558",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "399557",
+      "name": "Faasos - Wraps, Rolls & Shawarma",
+      "cloudinaryImageId": "af33b81798b11deba338e94b7585d348",
+      "locality": "Chinchwad",
+      "areaName": "Nigdi",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+        "Kebabs",
+        "Fast Food",
+        "Snacks",
+        "American",
+        "Healthy Food",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.2,
+      "parentId": "21809",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 3.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "27 mins",
+        "lastMileTravelString": "3.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-07 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹120 OFF",
+        "subHeader": "ABOVE ₹199",
+        "discountTag": "FLAT DEAL"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/faasos-wraps-rolls-and-shawarma-chinchwad-nigdi-pune-399557",
+      "type": "WEBLINK"
+    }
+  },
+  {
+    "info": {
+      "id": "538369",
+      "name": "EatFit",
+      "cloudinaryImageId": "6126c9b45de2cb222405c1af8a321e74",
+      "locality": "Bhat Nagar",
+      "areaName": "Pimpri",
+      "costForTwo": "₹270 for two",
+      "cuisines": [
+        "Chinese",
+        "Healthy Food",
+        "Tandoor",
+        "Pizzas",
+        "North Indian",
+        "Thalis",
+        "Biryani"
+      ],
+      "avgRating": 4.2,
+      "parentId": "76139",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 24,
+        "lastMileTravel": 1.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "24 mins",
+        "lastMileTravelString": "1.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-01-08 01:00:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "brand",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "brand"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹159"
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/eatfit-bhat-nagar-pimpri-pune-538369",
+      "type": "WEBLINK"
+    }
+  }
+]
