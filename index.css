@@ -31,6 +31,24 @@
   background-color: #f0f0f0;
 }
 
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shimmer-card {
+  width: 200px;
+  height: 250px;
+  padding: 5px;
+  margin: 5px;
+  background-color: #f0f0f0;
+}
+
+.login-btn {
+  margin: 10px;
+  padding: 10px;
+}
+
 .res-card:hover {
   border: 1px solid black;
   cursor: pointer;
@@ -48,4 +66,9 @@
 .filter-btn {
   margin: 10px;
   cursor: pointer;
+}
+
+.filter {
+  display: flex;
+  flex-wrap: wrap;
 }

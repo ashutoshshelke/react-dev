@@ -1,4 +1,5 @@
 import { LOGO_URL } from "../utils/constants";
+import Login from "./Login";
 
 const Header = () => {
   return (
@@ -15,6 +16,7 @@ const Header = () => {
           <li>About us</li>
           <li>Contact us</li>
           <li>Cart</li>
+          <Login />
         </ul>
       </div>
     </div>
