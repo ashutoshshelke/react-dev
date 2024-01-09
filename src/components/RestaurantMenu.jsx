@@ -37,13 +37,11 @@ const RestaurantMenu = () => {
         <h2>Menu</h2>
       </div>
       {menuItems.map((menuItem) => {
-        const { name, defaultPrice, price } = menuItem.card.info;
+        const { name, defaultPrice, price, id } = menuItem.card.info;
         return (
-          <div>
-            <h4>
-              {name} Rs.{price / 100 || defaultPrice / 100}
-            </h4>
-          </div>
+          <h4 key={id}>
+            {name} Rs.{price / 100 || defaultPrice / 100}
+          </h4>
         );
       })}
     </div>
