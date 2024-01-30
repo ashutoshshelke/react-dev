@@ -1,31 +1,32 @@
 import { useEffect, useState } from "react";
-import RestaurantCard from "./RestaurantCard";
+import RestaurantCard, { withDiscountInfo } from "./RestaurantCard";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
+import useOnlineStatus from "../utils/useOnlineStatus";
 
 const Body = () => {
   const [listOfRestaurants, setListOfRestaurants] = useState([]);
   const [searchValue, setSearchValue] = useState("");
   const [filteredRestaurants, setFilteredRestaurants] = useState([]);
 
+  const RestaurantCardDiscountInfo = withDiscountInfo(RestaurantCard);
+
   useEffect(() => {
     async function fetchData() {
       try {
-        const response = await fetch(
-          `https://api.allorigins.win/get?url=${encodeURIComponent(
-            "https://www.swiggy.com/dapi/restaurants/list/v5?lat=18.6281261&lng=73.7867629&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
-          )}`
-        );
+        const url =
+          "https://api.codetabs.com/v1/proxy?quest=https://www.swiggy.com/dapi/restaurants/list/v5?lat=18.6281261%26lng=73.7867629%26is-seo-homepage-enabled=true%26page_type=DESKTOP_WEB_LISTING";
+
+        const response = await fetch(url);
 
         if (!response.ok) {
           throw new Error("Network response was not ok.");
         }
 
-        const data = await response.json();
-        const swiggyData = JSON.parse(data?.contents);
+        const swiggyData = await response.json();
         const allRestaurants =
-          swiggyData?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle
-            ?.restaurants;
+          swiggyData.data.cards[4].card.card.gridElements.infoWithStyle
+            .restaurants;
         setListOfRestaurants(allRestaurants);
         setFilteredRestaurants(allRestaurants);
       } catch (error) {
@@ -35,6 +36,9 @@ const Body = () => {
     fetchData();
   }, []);
 
+  const onlineStatus = useOnlineStatus();
+  if (onlineStatus === false) return <h1>It looks like you are offline!</h1>;
+
   return listOfRestaurants?.length === 0 ? (
     <Shimmer />
   ) : (
@@ -42,6 +46,7 @@ const Body = () => {
       <div className="filter">
         <div className="search">
           <input
+            className="border"
             type="text"
             value={searchValue}
             onChange={(e) => {
@@ -83,7 +88,11 @@ const Body = () => {
             key={restaurant.info.id}
             to={"/restaurants/" + restaurant.info.id}
           >
-            <RestaurantCard data={restaurant} />
+            {restaurant.info?.aggregatedDiscountInfoV3 ? (
+              <RestaurantCardDiscountInfo data={restaurant} />
+            ) : (
+              <RestaurantCard data={restaurant} />
+            )}
           </Link>
         ))}
       </div>

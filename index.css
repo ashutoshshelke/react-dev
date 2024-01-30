@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -71,4 +75,12 @@
 .filter {
   display: flex;
   flex-wrap: wrap;
+}
+
+.discountInfo {
+  position: absolute;
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+  padding: 3px;
 }
