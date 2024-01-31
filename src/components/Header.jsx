@@ -1,10 +1,13 @@
+import { useContext } from "react";
 import { LOGO_URL } from "../utils/constants";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import Login from "./Login";
 import { Link } from "react-router-dom";
+import UserContext from "../utils/UserContext";
 
 const Header = () => {
   const onlineStatus = useOnlineStatus();
+  const { loggedInUser } = useContext(UserContext);
 
   return (
     <div className="flex justify-between">
@@ -28,6 +31,7 @@ const Header = () => {
           </li>
           <li>Cart</li>
           <Login />
+          <li>{loggedInUser}</li>
         </ul>
       </div>
     </div>

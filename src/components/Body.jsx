@@ -1,8 +1,9 @@
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import RestaurantCard, { withDiscountInfo } from "./RestaurantCard";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
+import UserContext from "../utils/UserContext";
 
 const Body = () => {
   const [listOfRestaurants, setListOfRestaurants] = useState([]);
@@ -10,6 +11,8 @@ const Body = () => {
   const [filteredRestaurants, setFilteredRestaurants] = useState([]);
 
   const RestaurantCardDiscountInfo = withDiscountInfo(RestaurantCard);
+
+  const { loggedInUser, setUserName } = useContext(UserContext)
 
   useEffect(() => {
     async function fetchData() {
@@ -46,7 +49,7 @@ const Body = () => {
       <div className="filter">
         <div className="search">
           <input
-            className="border"
+            className="border border-black"
             type="text"
             value={searchValue}
             onChange={(e) => {
@@ -81,7 +84,8 @@ const Body = () => {
         >
           Top Rated Restaurants
         </button>
-      </div>
+        <input placeholder="enter username" value={loggedInUser} onChange={(e)=>{setUserName(e.target.value)}} className="p-1 border border-black"></input>
+        </div>
       <div className="res-container">
         {filteredRestaurants?.map((restaurant) => (
           <Link
