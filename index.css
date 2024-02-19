@@ -72,10 +72,10 @@
   cursor: pointer;
 }
 
-.filter {
+/* .filter {
   display: flex;
   flex-wrap: wrap;
-}
+} */
 
 .discountInfo {
   position: absolute;

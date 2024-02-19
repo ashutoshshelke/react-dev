@@ -12,7 +12,7 @@ const Body = () => {
 
   const RestaurantCardDiscountInfo = withDiscountInfo(RestaurantCard);
 
-  const { loggedInUser, setUserName } = useContext(UserContext)
+  const { loggedInUser, setUserName } = useContext(UserContext);
 
   useEffect(() => {
     async function fetchData() {
@@ -46,7 +46,7 @@ const Body = () => {
     <Shimmer />
   ) : (
     <div className="body">
-      <div className="filter">
+      <div className="flex flex-wrap">
         <div className="search">
           <input
             className="border border-black"
@@ -84,8 +84,16 @@ const Body = () => {
         >
           Top Rated Restaurants
         </button>
-        <input placeholder="enter username" value={loggedInUser} onChange={(e)=>{setUserName(e.target.value)}} className="p-1 border border-black"></input>
-        </div>
+        <label className="m-3">Username:</label>
+        <input
+          placeholder="enter username"
+          value={loggedInUser}
+          onChange={(e) => {
+            setUserName(e.target.value);
+          }}
+          className="p-1 border border-black"
+        ></input>
+      </div>
       <div className="res-container">
         {filteredRestaurants?.map((restaurant) => (
           <Link

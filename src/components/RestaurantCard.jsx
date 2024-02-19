@@ -1,6 +1,9 @@
+import { useContext } from "react";
 import { CDN_URL } from "../utils/constants";
+import UserContext from "../utils/UserContext";
 
 const RestaurantCard = ({ data: { info } }) => {
+  const { loggedInUser } = useContext(UserContext);
   return (
     <div className="res-card">
       <img className="res-logo" src={CDN_URL + info.cloudinaryImageId} />
@@ -9,6 +12,7 @@ const RestaurantCard = ({ data: { info } }) => {
       <h4>{info.cuisines.join(",")}</h4>
       <h4>{info.avgRating}</h4>
       <h4>{info.sla.slaString}</h4>
+      <h4>User: {loggedInUser}</h4>
     </div>
   );
 };
@@ -20,7 +24,8 @@ export const withDiscountInfo = (RestaurantCard) => {
     return (
       <div>
         <label className="discountInfo">
-          {props.data.info.aggregatedDiscountInfoV3.header + " " +
+          {props.data.info.aggregatedDiscountInfoV3.header +
+            " " +
             props.data.info.aggregatedDiscountInfoV3.subHeader}
         </label>
         <RestaurantCard {...props} />
